@@ -25,7 +25,7 @@ void showtask()
     ifstream fileRead("tasks.txt", ios::in | ios::binary);
     if(!fileRead)
     {
-        cout << "Cannot open file\n";
+        cout << "Cannot open file\n";  //nothing to change
         exit(EXIT_FAILURE);
     }
     struct todo myTask;

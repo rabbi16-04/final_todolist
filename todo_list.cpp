@@ -43,7 +43,7 @@ void showtask()
 
 void deleteTask()
 {
-     //wut up nigger??
+     //delete
 }
 
 int main()      //last branch

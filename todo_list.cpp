@@ -43,5 +43,5 @@ void showtask()
 
 void deleteTask()
 {
-     //wut up nigger??
+     //nothing to add
 }

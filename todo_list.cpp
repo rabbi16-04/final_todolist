@@ -6,7 +6,7 @@ struct todo
 	char time[100], task[100];
 };
 
-void addTask()
+void addTask()    //this is the first branch of the code
 {
     ofstream fileWrite("tasks.txt", ios::app | ios::binary);
     struct todo myTask;
